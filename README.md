@@ -55,4 +55,4 @@ MIT for this project's own code. See [LICENSE](LICENSE).
 
 ### Third-party code
 
-`apps-script/ical.js.gs` is an iCalendar parser from the [GAS-ICS-Sync](https://github.com/derekantrican/GAS-ICS-Sync) project. It keeps its own license, the [Mozilla Public License 2.0](https://mozilla.org/MPL/2.0/), and its license header. The MIT license does not apply to it.
+`apps-script/ical.js.gs` is [ical.js](https://github.com/kewisch/ical.js) v2.0.1, an iCalendar parser by Philipp Kewisch and contributors. The copy here comes from the [GAS-ICS-Sync](https://github.com/derekantrican/GAS-ICS-Sync) project, which made three small changes so it parses imperfect feeds instead of stopping. It keeps its own license, the [Mozilla Public License 2.0](https://mozilla.org/MPL/2.0/), and its license header. The MIT license does not apply to it.
